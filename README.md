@@ -12,12 +12,12 @@ Repositório destinado aos exercícios, atividades e projetos desenvolvidos na d
 
 ## 📂 Organização
 
-Os exercícios estão organizados por listas:
+Os exercícios estão organizados por pastas:
 
-- `lista-01` — Introdução
-- `lista-02` — java.lang
-- `lista-03` — Classes e Objetos
-- `lista-04` — Coleções
+- `01-introdução` 
+- `02-java.lang`
+- `03-classes-e-objetos` 
+- `04-coleções`
 
 ## 💻 Linguagem
 
